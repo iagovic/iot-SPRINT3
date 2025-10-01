@@ -1,6 +1,6 @@
 # 🚀 Entrega IoT
 
-Este repositório contém todos os códigos utilizados no projeto IoT, incluindo **Python (Flask)**, **Frontend (React)** e **Banco de Dados (Oracle)**e **ARDUINO (arduino.ide)**
+Este repositório contém todos os códigos utilizados no projeto IoT, incluindo **Python (Flask)**, **Frontend (React)** e **Banco de Dados (Oracle)** e **ARDUINO (arduino.ide)**
 
 ---
 
